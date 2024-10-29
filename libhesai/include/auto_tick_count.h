@@ -29,6 +29,7 @@ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #ifndef AUTOTIMER_H_
 #define AUTOTIMER_H_
 
+#include <cstdint>
 #include <map>
 #include <numeric>
 #include <string>
